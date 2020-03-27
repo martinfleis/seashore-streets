@@ -4,6 +4,7 @@ channels:
   - defaults
   - udst
 dependencies:
+  - pip
   - rasterstats=0.14.0
   - jupyter
   - rasterio=1.1.3
