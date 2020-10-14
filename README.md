@@ -3,6 +3,8 @@ Repository of data and code for paper Climate adaptation plans in the context of
 
 Date: 27/03/2020
 
+Archived version of this repository is stored at the University of Strathclyde KnowledgeBase at DOI [10.15129/1b52083a-7e9b-4cca-8d2b-44823a241c53](https://doi.org/10.15129/1b52083a-7e9b-4cca-8d2b-44823a241c53).
+
 Contact: martin@martinfleischmann.net
 
 ## Introduction
