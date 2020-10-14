@@ -1,21 +1,18 @@
-# Paper title HERE
-Repository of data and code for paper NAME TBD.
-
-
-Paper reference HERE
+# Climate adaptation plans in the context of coastal settlements: the case of Portugal
+Repository of data and code for paper Climate adaptation plans in the context of coastal settlements: the case of Portugal.
 
 Date: 27/03/2020
 
 Contact: martin@martinfleischmann.net
 
 ## Introduction
-This repository contains python code in the form of Jupyter notebooks and geospatial data used in the above-mentioned research paper.
+This repository contains python code in the form of Jupyter notebooks and geospatial data used in the Climate adaptation plans in the context of coastal settlements: the case of Portugal research paper.
 
-The official archived version of this repository can be found at XXX and should be referenced as XX. However, primarily refer to the original paper.
-
-Geospatial data represent morphological structure of 30 seashore streets along the Portuguese coast. The data were analyzed using computational Jupyter notebooks to determine their morphometric profile, morphological classification and asses the risk of flooding due to the extreme weather events caused by climate change.
+Geospatial data represent the morphological structure of 30 seashore streets along the Portuguese coast. The data were analyzed using computational Jupyter notebooks to determine their morphometric profile, morphological classification and assess the risk of flooding due to the extreme weather events caused by climate change.
 
 Building layers were manually digitized and, where available, enriched by OpenStreetMap data. Street network layer was extracted from OpenStreetMap. Other layers were generated using Jupyter notebooks.
+
+Python code is stored within Jupyter notebooks. For the accessibility purposes, contents of notebooks were also exported into executable scripts and PDF.
 
 ### Data structure:
 
@@ -26,7 +23,7 @@ Structure of repository:
 ```
 ./*.ipynb
     - Juptyter notebooks used for the analysis. Uses datasets in data folder.
-./*.pdf, *.html, *.py
+/pdf, /py
     - alternative formats mirroring the content of Jupyter notebooks
 ./environment.yml
     - conda environment specification to re-create reproducible Python environment
@@ -69,4 +66,4 @@ Structure of repository:
 ```
 
 ## Licensing
-Software in this repository is license under [Creative Commons Zero v1.0 Universal](LICENSE). The geospatial datasets are licensed under [Open Database License](data/LICENSE).
+Software in this repository is license under [Creative Commons Attribution v4.0 Universal](LICENSE). The geospatial datasets are licensed under [Open Database License](data/LICENSE).

@@ -3,11 +3,9 @@
 
 # # Measure morphometric characters
 # 
-# Computational notebook 02 for _NAME_ Dal Cin, Fleischmann.. - ADD Reference.
+# Computational notebook 02 for Climate adaptation plans in the context of coastal settlements: the case of Portugal.
 # 
-# Contact: martin@martinfleischmann.net
-# 
-# Date: 27/03/2020
+# Date: 27/06/2020
 # 
 # ---
 # 

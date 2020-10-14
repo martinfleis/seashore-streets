@@ -3,15 +3,13 @@
 
 # # Extract street networks from OpenStreetMap
 # 
-# Computational notebook 01 for _NAME_ Dal Cin, Fleischmann.. - ADD Reference.
+# Computational notebook 01 for Climate adaptation plans in the context of coastal settlements: the case of Portugal.
 # 
-# Contact: martin@martinfleischmann.net
-# 
-# Date: 27/03/2020
+# Date: 27/06/2020
 # 
 # ---
 # 
-# Input data contains manually digitised building footprints stored in geopackages divided according to geographical locations (follwing division proposed by Ribeiro (1945)).
+# Input data contains manually digitised building footprints stored in geopackages divided according to geographical locations (following division proposed by Ribeiro (1945)).
 # 
 # Structure of GeoPackages:
 # 

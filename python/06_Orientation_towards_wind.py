@@ -3,11 +3,9 @@
 
 # # Measure orientation of seashore streets in relation to SW wind
 # 
-# Computational notebook 06 for _NAME_ Dal Cin, Fleischmann.. - ADD Reference.
+# Computational notebook 06 for Climate adaptation plans in the context of coastal settlements: the case of Portugal.
 # 
-# Contact: martin@martinfleischmann.net
-# 
-# Date: 27/03/2020
+# Date: 27/06/2020
 # 
 # ---
 # 
